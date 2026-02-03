@@ -1,5 +1,4 @@
 # Healthcare-ER-Operations-Analysis
-# Hospital Emergency Room Dashboard (Monthly View)
 
 ## 1. Executive Summary
 
