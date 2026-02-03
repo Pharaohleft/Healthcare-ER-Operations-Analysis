@@ -308,3 +308,58 @@ Patient satisfaction does not move in lockstep with wait time or access metrics.
 ### Temporal Pressure Points
 
 Day-of-week and hour-of-day patterns reveal repeatable pressure points, particularly on weekends and specific weekday blocks, which are masked when viewed only through monthly totals. These patterns suggest opportunities for targeted operational adjustments rather than broad system changes.
+
+## Key Metrics (KPIs)
+
+- **Total ER Visits:** 9,216
+- **Average Wait Time:** 35.3 minutes (consolidated)
+- **Patients Seen ≤30 Minutes:** ~59–65% monthly range; **40.68% miss target**
+- **Admission Rate:** ~50.04% (monthly range: 46%–54%)
+- **Patient Satisfaction:** 4.63 (low) to 5.31 (high)
+
+---
+
+## Key Insights & Trends
+
+### 1. Consolidated Averages Mask Operational Volatility
+While aggregate metrics suggest stability, same-month year-over-year analysis shows meaningful swings in patient volume, access performance, and satisfaction. Several months diverge materially from the consolidated baseline, indicating that averages understate operational risk.
+
+### 2. Access Performance Is Episodic, Not Improving
+The share of patients seen within 30 minutes varies widely by month (≈54.8% to ≈65.7%) with no sustained upward trend across the period. Improvements occur in isolated months and reverse in others, undermining assumptions of steady access gains.
+
+### 3. Admissions Are a Structural Constraint
+Admission rates consistently cluster around 50% across months and in aggregate. Month-to-month movement is limited (±3–4 percentage points), signaling downstream capacity constraints rather than discretionary admission behavior.
+
+### 4. Satisfaction Is Not Explained by Wait Time Alone
+Comparable wait times produce sharply different satisfaction outcomes. For example, a <1-minute improvement in average wait coincides with a +0.57 increase in satisfaction between two observed months. This indicates non-quantified drivers of experience beyond throughput metrics.
+
+### 5. Persistent Access Failures
+Approximately 40.68% of patients miss the 30-minute target in the consolidated view. This miss rate persists even in lower-volume months, indicating a systemic access issue rather than a demand-driven one.
+
+---
+
+## Areas of Concern
+
+- High and persistent access target miss rate (~2 in 5 patients)
+- Volatile patient satisfaction, reducing reliability of experience outcomes
+- Overreliance on consolidated KPIs, which obscure month-specific breakdowns
+- Limited flexibility in admissions, constraining operational response
+
+---
+
+## Actionable Recommendations
+
+### 1. Institutionalize Month-Level Performance Reviews
+Require same-month YoY tracking for access and satisfaction to prevent consolidated averages from masking operational failures.
+
+### 2. Broaden the Patient Experience Measurement Set
+Supplement wait time with additional experience indicators (e.g., communication, handoffs, discharge clarity) to better explain satisfaction variability.
+
+### 3. Target Access Interventions to Exception Months
+Prioritize operational reviews for months where ≤30-minute performance falls below ~58%, treating these as exception states requiring focused remediation rather than normal variation.
+
+---
+
+## Bottom Line
+
+The ER system is structurally constrained but operationally volatile. Leadership decisions based solely on consolidated dashboards risk underestimating access failures and misdiagnosing patient experience drivers. A shift to disciplined month-level monitoring is required to surface and address true performance gaps.
