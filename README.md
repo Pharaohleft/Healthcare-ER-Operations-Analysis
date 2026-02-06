@@ -11,7 +11,7 @@ Emergency departments operate under competing constraints: patient access, wait 
 - Whether monthly fluctuations meaningfully diverge from overall baselines
 
 ---
-# Problem Context (Non-Technical)
+# Problem Context 
 
 -- Emergency departments face competing pressures: access, satisfaction, throughput, and admissions.
 
